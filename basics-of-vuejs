@@ -1,7 +1,0 @@
-# What is Vuejs?
-
-Vuejs is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
-
-<?php
-echo 'Hello World!';
-?>
